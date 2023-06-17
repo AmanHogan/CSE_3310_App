@@ -1,0 +1,65 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/drawable/cleaning.xml" value="0.1" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/drawable/ic_baseline_star_rate_24.xml" value="0.1" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_accept_service.xml" value="0.25" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_cancellation_page.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_find_list_view.xml" value="0.1" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_find_service.xml" value="0.25" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_find_service_list_view.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_leave_rating.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_manage_service.xml" value="0.3625" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_manage_services.xml" value="0.3625" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_order_history.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_place_service.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_post_service.xml" value="0.3625" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_register_vendor.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_settings.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_vendor_accept_service.xml" value="0.25" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/content_scrolling.xml" value="0.33" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/fragment_find.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/manage_service_row.xml" value="0.25" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/order_history_entry.xml" value="0.2463768115942029" />
+        <entry key="..\:/Users/Aman/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/menu/menu_home.xml" value="0.21481481481481482" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/drawable/line.xml" value="0.3365" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.20147255689424365" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout-w936dp/activity_login.xml" value="0.23515625" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_cancellation.xml" value="0.27870370370370373" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_cancellation_page.xml" value="0.33" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_home.xml" value="0.4925925925925926" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_login.xml" value="0.31354166666666666" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_order_history.xml" value="0.27870370370370373" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_place_service.xml" value="0.2711711711711712" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_test.xml" value="0.4266304347826087" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/cancellation_page.xml" value="0.27870370370370373" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/order_history_entry.xml" value="0.5" />
+        <entry key="..\:/Users/Andy/StudioProjects/CSE_3310_Default_Project/app/src/main/res/menu/menu_home.xml" value="0.4925925925925926" />
+        <entry key="..\:/Users/Luke Sweeney/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_find_service.xml" value="0.36342592592592593" />
+        <entry key="..\:/Users/Luke Sweeney/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_find_service_list_view.xml" value="0.72" />
+        <entry key="..\:/Users/Luke Sweeney/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_leave_rating.xml" value="0.72" />
+        <entry key="..\:/Users/Luke Sweeney/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_login.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/Luke Sweeney/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_place_service.xml" value="0.3423913043478261" />
+        <entry key="..\:/Users/Luke Sweeney/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_register.xml" value="0.4" />
+        <entry key="..\:/Users/Luke Sweeney/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_search_vendor.xml" value="0.2" />
+        <entry key="..\:/Users/Luke Sweeney/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/sample_vendor_list_view.xml" value="0.536" />
+        <entry key="..\:/Users/Luke Sweeney/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/vendor_list_item.xml" value="0.4041666666666667" />
+        <entry key="..\:/Users/Ryan/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/activity_register_vendor.xml" value="0.22" />
+        <entry key="..\:/Users/Ryan/AndroidStudioProjects/CSE_3310_Default_Project/app/src/main/res/layout/content_scrolling.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
